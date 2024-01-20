@@ -3,8 +3,8 @@
 #REPO
   REPO="https://raw.githubusercontent.com/RafanSTR/vip/main/"
 
-function make_folder_xray() {
-rm -rf /etc/vmess/.vmess.db
+    function make_folder_xray() {
+    rm -rf /etc/vmess/.vmess.db
     rm -rf /etc/vless/.vless.db
     rm -rf /etc/trojan/.trojan.db
     rm -rf /etc/shadowsocks/.shadowsocks.db
