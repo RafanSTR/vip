@@ -2,7 +2,8 @@
 
 #REPO
   REPO="https://raw.githubusercontent.com/RafanSTR/vip/main/"
-
+  
+echo -e "xx"
     function make_folder_xray() {
     rm -rf /etc/vmess/.vmess.db
     rm -rf /etc/vless/.vless.db
